@@ -1,0 +1,39 @@
+img {
+    width: 10%;
+    height: auto;
+    
+  }
+
+h3 {
+    color: navy;
+
+}  
+
+h1 {
+    font-family: 'Turret Road', bold;
+    font-size: 3.75em;
+    text-align: center;
+    color: red;
+}
+
+.jumbotron {
+     background-color: blue;
+}
+
+.panel {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aqua;
+}
+.row{
+    background-color: lightgreen;
+} 
+
+
+.col-lg-6 {
+    background-color: bisque;
+}
+
+.panel-heading {
+    background-color: blueviolet:
+}
