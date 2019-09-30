@@ -1,39 +1,14 @@
-img {
-    width: 10%;
-    height: auto;
-    
-  }
+.jumbotron{
+    background: url('https://png.pngtree.com/png-clipart/20190515/original/pngtree-modern-shiny-glitters-background-png-image_3543006.jpg');
+    background-size: 18%;
 
-h3 {
-    color: navy;
+}
 
-}  
-
-h1 {
-    font-family: 'Turret Road', bold;
-    font-size: 3.75em;
+h1{
     text-align: center;
-    color: red;
-}
+    }
 
-.jumbotron {
-     background-color: blue;
-}
-
-.panel {
-    margin-left: 10%;
-    margin-right: 10%;
-    background-color: aqua;
-}
-.row{
-    background-color: lightgreen;
-} 
-
-
-.col-lg-6 {
-    background-color: bisque;
-}
-
-.panel-heading {
-    background-color: blueviolet:
+body{
+    background: url('https://png.pngtree.com/png-clipart/20190515/original/pngtree-modern-shiny-glitters-background-png-image_3543006.jpg');
+    background-size: 50%;
 }
