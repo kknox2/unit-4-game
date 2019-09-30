@@ -85,16 +85,16 @@ var addValues = function (crystal) {
 }
 
 //Check if win or lose and resets the game
-var checkWin = function() {
+var checkWin = function () {
 
     //check if currentScore is larger than targetScore
-    if(currentScore > targetScore) {
+    if (currentScore > targetScore) {
         alert("LOSER!");
         console.log("Loser!");
 
         //add to loss counter
         lossCount++;
-        
+
         //Change Loss Count HTML
         $("#lossCount").html(lossCount);
 
